@@ -1,6 +1,6 @@
 # Hi there 👋 - I'm Alberto!
 <a href="[https://linkedin.com](https://www.linkedin.com/in/alberto-natalotto-020/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://infosec.exchange/@man_cat"><img src="https://img.shields.io/badge/-Mastodon-6364FF?&style=for-the-badge&logo=mastodon&logoColor=white" /></a>
+<a rel="me" href="https://infosec.exchange/@man_cat"><img src="https://img.shields.io/badge/-Mastodon-6364FF?&style=for-the-badge&logo=mastodon&logoColor=white" /></a>
 
 
 ## About Me
